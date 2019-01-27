@@ -1,7 +1,7 @@
------
+---
 title: Welcome to the blog
 date: 2019-01-27
------
+---
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
